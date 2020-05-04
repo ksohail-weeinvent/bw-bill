@@ -1,5 +1,6 @@
 <?php
-//print_r($_GET);
+//ok do this
+print_r($_GET);
 ?>
 
 <!DOCTYPE html>
